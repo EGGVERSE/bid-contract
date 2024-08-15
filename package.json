@@ -56,6 +56,6 @@
     "web3": "^1.4.0"
   },
   "dependencies": {
-    "hardhat": "^2.4.3"
+    "hardhat": "^2.8.4"
   }
 }
